@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("hello world")
         var list:[Any]=[]
 
             list.append(["A1":"做得好","B1":"做得不錯","C1":"有點糟糕","F1":"你這爛東西"])
